@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is the simulation of human intelligence.
+
+Machine learning is a subset of AI.
+
+RAG improves LLM responses using retrieved documents.
